@@ -51,3 +51,5 @@ VocalVision is a web application that empowers individuals with visual impairmen
    
 ### **Note**:
 You need to download the [yolo pretrained weights](https://pjreddie.com/media/files/yolov3.weights) and place it in the server folder to get started with the project.
+
+Some sample images are provided in the images folder in the server directory
